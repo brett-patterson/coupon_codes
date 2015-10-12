@@ -2,7 +2,7 @@ An implementation of the Algorithm::CouponCode for Python.
 
 Usage
 =====
-```
+```python
 from coupon_codes import cc_generate, cc_validate
 
 cc_generate()
